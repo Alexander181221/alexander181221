@@ -27,19 +27,19 @@ I am a passionate and detail-oriented Quality Assurance (QA) Engineer student wi
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://camo.githubusercontent.com/e1512e2c412bca70b489984f6e552a485481f0fc9c3196aebfed90bd21b79741/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f373138372f373138373339392e706e67" title="Functional testing" alt="Functional testing" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/487619c4d70b1ff58862a5ca720e5f2801742fca87a2dd06b6b4824d82166aec/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383335302e706e67" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/Pytest.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/7187/7187399.png" title="Functional testing" alt="Functional testing" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/Pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5936/5936927.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/postman-logo.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/qase.png" title="Qase" alt="Qase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111656.png" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/183/183319.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2306/2306022.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/186/186320.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/802/802251.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
+
