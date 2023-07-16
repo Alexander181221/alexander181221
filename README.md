@@ -4,6 +4,6 @@
         <a href="http://t.me/alex99_QA">
      <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"
           /a>
-          <img src="https://komarev.com/ghpvc/?username=alexandr1812&style=flat-square&color=blue" alt=""/>
     </div>
+        <img src="https://komarev.com/ghpvc/?username=alexandr1812&style=flat-square&color=blue" alt=""/>
 </div>
