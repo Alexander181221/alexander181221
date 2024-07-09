@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ2cjI2eW5nZDhudWlpdXNuOTBpcnN0bDJrcDF5YTdvNjcyaXdjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-        <a href="http://t.me/alex99_QA">
+        <a href="">
      <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"
           /a>
         </div>
@@ -22,7 +22,7 @@ I am a passionate and detail-oriented Quality Assurance (QA) Engineer student wi
 * :seedling: Exploring Technical Content Writing.
 * :zap: In my free time, I help other students and work on my people skills.
 * :mailbox: Everyday I learn something about Software Testing and add it to my miro board. Feel free to grab some useful info 🙂
-* :envelope_with_arrow: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)](http://t.me/alex99_QA)
+* :envelope_with_arrow: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)]()
 
 ### :hammer_and_wrench: Languages and Tools :
 
